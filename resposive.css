@@ -1,0 +1,54 @@
+@media screen and (max-width: 600px) {
+    .container{
+        width: 90%;
+        margin: 50px auto;
+    }
+    .menu{
+        display: none;
+    }
+    .hero{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .explore-travel h1{
+        font-size: 2rem;
+        font-weight: 700;
+        margin: 10px 0;
+    }
+    .find-time{
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        margin-top: 10px;
+    }
+    .tour-details{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .tour-text{
+        width: 100%;
+    }
+    .tour-img{
+        width: 100%;
+    }
+    .photo-gellary{
+        display: flex;
+        flex-direction: column;
+    }
+    .Choose-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .hotel{
+        width: 100%;
+    }
+    .orbit{
+        width: 100%;
+        margin: 20px auto;
+    }
+    .footer{
+        text-align:left;
+        padding:5%;
+        }
+}
